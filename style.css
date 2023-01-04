@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.valorant{
+    background-image: url("valo.png");
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.9;
+    letter-spacing:5px ;
+}
+
+.valorant h1{
+    width: 462px;
+    background-color: #882525;
+    color: black;
+    font-size: 3rem;
+    text-transform: uppercase;
+    padding: 29px 32px;
+    outline: 10px inset black;
+    outline-offset: 20px;
+}
+
+.first{
+    height: 200px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 30px;
+    align-items: center;
+    padding: 0px 10px;
+    font-size: 17px;
+    background-color: rgb(11, 10, 10);
+    color: white;
+}
+
+.first h2{
+    margin-bottom: 10px;
+}
+
+.ajanlar{
+    background-image: url("ajans.jpg");
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.9;
+    letter-spacing:5px ;
+}
+
+.ajanlar h1{
+    width: 462px;
+    background-color: #882525;
+    color: black;
+    font-size: 3rem;
+    text-transform: uppercase;
+    padding: 29px 32px;
+    outline: 10px auto black;
+    outline-offset: 20px;
+}
+
+.second{
+    height: 250px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 30px;
+    align-items: center;
+    padding: 0px 10px;
+    font-size: 17px;
+    background-color: rgb(11, 10, 10);
+    color: white;
+}
+
+.haritalar{
+    background-image: url("maps.jpg");
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.9;
+    letter-spacing:5px ;
+}
+
+.haritalar h1{
+    width: 462px;
+    background-color: #882525;
+    color: black;
+    font-size: 3rem;
+    text-transform: uppercase;
+    padding: 29px 32px;
+    outline: 10px auto black;
+    outline-offset: 20px;
+}
+
+.third{
+    height: 150px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    line-height: 30px;
+    align-items: center;
+    padding: 0px 10px;
+    font-size: 17px;
+    background-color: rgb(11, 10, 10);
+    color: white;
+}
+
+.son{
+    background-image: url("son.jpg");
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.9;
+    letter-spacing:5px ;
+}
+
+.son h1{
+    width: 462px;
+    background-color: #4419dd;
+    color: black;
+    font-size: 3rem;
+    text-transform: uppercase;
+    padding: 29px 32px;
+    outline: 10px auto black;
+    outline-offset: 20px;
+}
+
+@media screen (max-width: 700px) {
+
+    
+    
+}
+
+
